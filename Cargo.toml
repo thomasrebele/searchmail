@@ -1,0 +1,9 @@
+[package]
+name = "searchmail"
+version = "0.1.0"
+authors = ["Thomas Rebele <thomas.rebele@googlemail.com>"]
+
+[dependencies]
+mailparse = "0.6.3"
+structopt = "0.2"
+regex = "1.1.0"
